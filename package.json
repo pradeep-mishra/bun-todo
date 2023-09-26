@@ -1,0 +1,17 @@
+{
+  "name": "bun-todo",
+  "version": "0.0.1",
+  "scripts": {
+    "server": "bun run --cwd 'packages/server' dev",
+    "client": "bun run --cwd 'packages/client' dev"
+  },
+  "dependencies": {
+    "elysia": "latest"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
