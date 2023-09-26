@@ -51,3 +51,7 @@ Now, you can navigate to `http://localhost:3310` in your web browser to see the 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Screenshot
+
+[Screenshot](todo.png)
